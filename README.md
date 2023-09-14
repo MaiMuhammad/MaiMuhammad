@@ -1,21 +1,5 @@
 <h1 align="center"> Mai Mohamed Khalil <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="60"></h1>
-
-<p align="center">I am a third-year student studying at the Faculty of Computers and Artificial Intelligence, Cairo University.</p>
-     
-## Languages and Tools:
-
-<p>
-<img height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">&nbsp;&nbsp;  
-<img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">&nbsp;&nbsp;
-<img height="50" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">&nbsp;&nbsp;
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">&nbsp;&nbsp;
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png">&nbsp;&nbsp;
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;&nbsp;
-<img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">&nbsp;&nbsp; 
-<img height="50" src="https://o.remove.bg/downloads/1a86ea11-363c-4ef6-a2da-14d38bf4d4a1/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-removebg-preview.png">&nbsp;&nbsp;  
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp;&nbsp;  
-
-</p>
+<h3 align="center">I am a third-year student studying at the Faculty of Computers and Artificial Intelligence, Cairo University.</h3>
 
 ## Connect with me:
 
@@ -25,6 +9,23 @@
 <a href="https://t.me/MaiMuhammd"> <img height="50" src="https://user-images.githubusercontent.com/101745968/179003173-7fe1e030-e834-441c-8293-dc618525ad6b.png"></a> 
 <a href="https://codeforces.com/profile/MaiMuhammed"><img height="50" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png"></a> 
 </p>
+     
+## Languages and Tools:
+
+<p>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">&nbsp;&nbsp;</a>  
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">&nbsp;&nbsp;</a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img height="50" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">&nbsp;&nbsp;</a>  
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">&nbsp;&nbsp;</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png">&nbsp;&nbsp;</a> 
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;&nbsp;</a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">&nbsp;&nbsp; </a> 
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img height="50" src="https://o.remove.bg/downloads/1a86ea11-363c-4ef6-a2da-14d38bf4d4a1/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-removebg-preview.png">&nbsp;&nbsp;  </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp;&nbsp;</a>
+
+</p>
+
 
 ##
 
