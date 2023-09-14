@@ -12,7 +12,9 @@
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png">&nbsp;&nbsp;
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;&nbsp;
 <img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">&nbsp;&nbsp; 
+<img height="50" src="https://o.remove.bg/downloads/1a86ea11-363c-4ef6-a2da-14d38bf4d4a1/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-removebg-preview.png">&nbsp;&nbsp;  
 <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp;&nbsp;  
+
 </p>
 
 ## Connect with me:
