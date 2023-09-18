@@ -21,7 +21,7 @@
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;&nbsp;</a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">&nbsp;&nbsp; </a> 
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img height="50" src="https://o.remove.bg/downloads/1a86ea11-363c-4ef6-a2da-14d38bf4d4a1/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-removebg-preview.png">&nbsp;&nbsp;  </a> 
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qt_small.svg/2560px-Qt_small.svg.png">&nbsp;&nbsp;  </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp;&nbsp;</a>
 
 </p>
