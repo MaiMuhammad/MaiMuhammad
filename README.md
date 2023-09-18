@@ -35,6 +35,4 @@
 
 <p><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiMuhammad&theme=dracula"/></p>
 
-##
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaiMuhammad&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
