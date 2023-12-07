@@ -1,5 +1,6 @@
 <h1 align="center"> Mai Mohamed Khalil</h1>
-<p align="center">I am a third-year student studying at the Faculty of Computers and Artificial Intelligence, Cairo University. <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="60"></p>
+<p align="center"> <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="60"> 
+     I am a third-year student studying at the Faculty of Computers and Artificial Intelligence, Cairo University. </p>
 
 ## Connect with me:
 
