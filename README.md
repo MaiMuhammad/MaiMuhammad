@@ -1,6 +1,6 @@
 <h1 align="center"> Mai Mohamed Khalil</h1>
 <p align="center"> <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="60"> 
-    A Fourth-Year Student at Faculty of Computers and Artificial Intelligence, Cairo University.</p>
+     Fresh graduate from the Faculty of Computers and Artificial Intelligence, Cairo University.</p>
 
 ## Connect with me:
 
